@@ -1,6 +1,6 @@
 # hugo-tranquil-theme
 
-暂未开源的[绅士喵博客](https://hugo-blog.hentioe.dev/)的 Hugo 主题。
+暂未开源的[绅士喵博客](https://blog.hentioe.dev/)的 Hugo 主题。
 
 ## 说明
 
